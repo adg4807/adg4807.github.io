@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "study_Rocord"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Joung A Lee"
 description              : "An amazing website."
 url                      : "https://adg4807.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
